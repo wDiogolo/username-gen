@@ -1,0 +1,26 @@
+{
+  "name": "username-gen",
+  "version": "1.0.0",
+  "description": "Generate a random username",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wDiogolo/username-gen.git"
+  },
+  "keywords": [
+    "username",
+    "username gen",
+    "generator",
+    "username-generator",
+    "generator"
+  ],
+  "author": "@diogolo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wDiogolo/username-gen/issues"
+  },
+  "homepage": "https://github.com/wDiogolo/username-gen#readme"
+}
